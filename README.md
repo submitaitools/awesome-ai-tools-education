@@ -55,6 +55,9 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Jotform](https://www.jotform.com/ai/quiz-generator/): AI Quiz Generator for creating custom quizzes.
 - [MagicForm](https://www.magicform.app/): Create quizzes from any topic, YouTube URL, PDF, or text.
 
+## 🧭 AI Media Literacy
+- [Albis](https://www.albis.news/media-literacy?utm_source=github&utm_medium=awesome-list&utm_campaign=submitaitools_ai_education): Free AI-assisted news discovery exercise for comparing what different feeds cover, miss, and frame differently.
+
 ## 🧑‍🎓 [AI Education Assistant](https://submitaitools.org/category/best-ai-education-assistant-tools)
 - [Khanmigo](https://khanmigo.ai/): AI-powered personal tutor and teaching assistant by Khan Academy.
 - [Brisk Teaching](https://www.briskteaching.com/): AI tools for curriculum, feedback, and differentiation.
