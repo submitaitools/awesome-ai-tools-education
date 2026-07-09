@@ -68,5 +68,6 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Shelf.io](https://shelf.io/blog/ai-based-knowledge-management-system/): Guide on AI-based knowledge management systems.
 - [ClearPeople](https://www.clearpeople.com/blog/the-top-ai-knowledge-management-tools-for-boosting-productivity): Overview of top AI knowledge management tools.
 - [Salesforce](https://www.salesforce.com/service/ai/what-is-knowledge-management-ai/): Application of AI in retrieving and sharing company knowledge.
+- [BidSharp](https://bidsharp.io/) - AI-powered proposal intelligence platform with automated critiques, risk scanners, and pricing calculators.
 
 ---
