@@ -61,6 +61,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [MagicSchool](https://www.magicschool.ai/): Trusted AI platform for educators and students.
 - [Eduaide.Ai](https://www.eduaide.ai/): AI-powered workspace simplifying lesson planning and resource creation.
 - [Quizizz AI](https://quizizz.com/quizizz-ai): Generate quizzes and lessons quickly with AI assistance.
+- [桃李AI](https://taoliapp.com/): AI end-of-term student comment generator for Chinese K-12 teachers (Excel import + multi-tag personalization).
 
 ## 🗂️ [AI Knowledge Management](https://submitaitools.org/category/best-ai-knowledge-management-tools)
 - [Bloomfire](https://bloomfire.com/): AI-based knowledge management platform for organizations.
