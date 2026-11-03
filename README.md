@@ -54,6 +54,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Quizbot](https://quizbot.ai/): Generate various types of questions from multiple sources.
 - [Jotform](https://www.jotform.com/ai/quiz-generator/): AI Quiz Generator for creating custom quizzes.
 - [MagicForm](https://www.magicform.app/): Create quizzes from any topic, YouTube URL, PDF, or text.
+- [QuizQuip](https://quizquip.com/): Syllabus-aligned science quizzes, chapter notes and original practice papers for Singapore lower-secondary students (WA1/WA2/EOY).
 
 ## 🧑‍🎓 [AI Education Assistant](https://submitaitools.org/category/best-ai-education-assistant-tools)
 - [Khanmigo](https://khanmigo.ai/): AI-powered personal tutor and teaching assistant by Khan Academy.
