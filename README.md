@@ -54,6 +54,7 @@ This list was curated by [**SubmitAITools.org**](https://submitaitools.org/) –
 - [Quizbot](https://quizbot.ai/): Generate various types of questions from multiple sources.
 - [Jotform](https://www.jotform.com/ai/quiz-generator/): AI Quiz Generator for creating custom quizzes.
 - [MagicForm](https://www.magicform.app/): Create quizzes from any topic, YouTube URL, PDF, or text.
+- [Lessicon](https://lessicon.com/?src=github&c=awesome-ai-edu): Turns your notes, a photo of them or a topic into a whole study website with a quiz, explanations, a concept map and spaced-repetition cards. Free to start.
 
 ## 🧑‍🎓 [AI Education Assistant](https://submitaitools.org/category/best-ai-education-assistant-tools)
 - [Khanmigo](https://khanmigo.ai/): AI-powered personal tutor and teaching assistant by Khan Academy.
